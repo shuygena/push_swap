@@ -11,7 +11,7 @@ Go to directory:
 ```
 cd push_swap
 ```
-For compile program run:
+For compile program run:   
 ```make``` (push_swap) or ```make bonus``` (checker)  
 
 ## :clipboard: Task  
